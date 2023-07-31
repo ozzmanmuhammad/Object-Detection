@@ -138,8 +138,8 @@ After loading and preprocessing the images, I used <a href="https://github.com/t
 <img src="https://github.com/ozzmanmuhammad/ozzmanmuhammad.github.io/blob/main/assets/images/project/OD_pred_1.png"  alt="">
 <img src="https://github.com/ozzmanmuhammad/ozzmanmuhammad.github.io/blob/main/assets/images/project/pred3.png"  alt="">
 <img src="https://github.com/ozzmanmuhammad/ozzmanmuhammad.github.io/blob/main/assets/images/project/pred4.png"  alt="">
-<img src="https://github.com/ozzmanmuhammad/ozzmanmuhammad.github.io/blob/main/assets/images/project/pred5.png"  alt="">
 <img src="https://github.com/ozzmanmuhammad/ozzmanmuhammad.github.io/blob/main/assets/images/project/pred6.png"  alt="">
+![pred5](https://github.com/ozzmanmuhammad/Object-Detection/assets/93766242/b9d3cfbc-7924-446c-b110-e32e559104ca)
 
 Future experiments can be done to make object segmentation and
 to detect and read specfic objects like car license plates.
